@@ -23,6 +23,6 @@ goto begin
 start notepad
 goto begin
 :ug
-start https://inf.ug.edu.pl/
+start https://ug.edu.pl/
 goto begin
 :end
